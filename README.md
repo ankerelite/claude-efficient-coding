@@ -7,7 +7,7 @@ A revolutionary approach to generating ultra-efficient code using AI language mo
 
 > **Note:** This project is intentionally hosted via Claude's artifact system to demonstrate the complete, self-contained nature of the AI-generated code. While traditional deployment methods were considered, maintaining the code in its original form better showcases the optimization techniques achieved through AI prompting.
 
-[Try the Game](https://claude.site/artifacts/ba6a4ade-586b-4d9f-970a-f6aa42756258?fullscreen=true) • [Read the Article](https://medium.com/@ankerelite/teaching-ai-to-write-ultra-efficient-code-lessons-from-building-a-game-with-claude-fbce6c804b23) • [Follow Me](https://github.com/ankerelite)
+[Try the Game](https://claude.site/artifacts/dac0ca9d-80a1-437b-8ea4-3beb0842ecae?fullscreen=true) • [Read the Article](https://medium.com/@ankerelite/teaching-ai-to-write-ultra-efficient-code-lessons-from-building-a-game-with-claude-fbce6c804b23) • [Follow Me](https://github.com/ankerelite)
 
 ![Game Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hicWdubmUydDR4d2RkcmRvYXNiZDJlNjRmdTkzanQwMGNmdWM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/euAkwNiRhhljuaViOk/giphy.gif)
 
