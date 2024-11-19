@@ -1,7 +1,7 @@
 # 🎮 Ultra-Efficient AI Game Development
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Medium Article](https://img.shields.io/badge/Medium-Read%20Article-black)](https://medium.com/@yourusername/article-link)
+[![Medium Article](https://img.shields.io/badge/Medium-Read%20Article-black)](https://medium.com/@ankerelite/teaching-ai-to-write-ultra-efficient-code-lessons-from-building-a-game-with-claude-fbce6c804b23)
 
 A revolutionary approach to generating ultra-efficient code using AI language models, demonstrated through a complex browser-based idle game.
 
